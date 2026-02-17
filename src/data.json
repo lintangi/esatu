@@ -1,0 +1,89 @@
+{
+  "schoolConfig": {
+    "name": "Sekolah Harapan Bangsa",
+    "address": "Jl. Pendidikan No. 123, Jakarta Selatan",
+    "phone": "(021) 555-0123",
+    "email": "info@harapanbangsa.sch.id",
+    "headmasterName": "Dr. H. Ahmad Fauzi, M.Pd",
+    "headmasterImage": "https://picsum.photos/100/100?random=headmaster",
+    "welcomeMessage": "Selamat datang di website resmi Sekolah Harapan Bangsa. Di era digital ini, kami berkomitmen untuk tidak hanya mencetak siswa yang cerdas secara akademik, tetapi juga berkarakter mulia dan siap menghadapi tantangan global.",
+    "heroImage": "https://picsum.photos/1920/1080?random=school",
+    "vision": "Menjadi institusi pendidikan berstandar internasional yang unggul dalam prestasi, berkarakter, dan berwawasan lingkungan.",
+    "mission": "Menyelenggarakan pembelajaran yang inovatif dan kreatif.\nMenanamkan nilai-nilai keagamaan dan moral.\nMengembangkan bakat dan minat siswa secara optimal.\nMenjalin kerjasama dengan berbagai institusi dalam dan luar negeri.",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.051877983636!2d106.80000000000001!3d-6.256000000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1ec2422b9b5%3A0x6207acbc163c460!2sSekolah%20Menengah%20Atas%20Negeri%2070%20Jakarta!5e0!3m2!1sid!2sid!4v1635748000000!5m2!1sid!2sid",
+    "facebookLink": "#",
+    "instagramLink": "#",
+    "youtubeLink": "#",
+    "elearningLink": "#",
+    "ppdbLink": "#",
+    "openingHours": "07:00 - 15:00",
+    "footerText": "© 2024 Sekolah Harapan Bangsa. All rights reserved.",
+    "runningText": "📢 PENGUMUMAN: Pendaftaran Peserta Didik Baru (PPDB) Tahun Ajaran 2024/2025 Telah Dibuka! • Selamat kepada Tim Basket Putra atas Juara 1 DBL • Pengambilan Rapor Semester Ganjil pada 18 Desember 2023",
+    "profileGreeting": "Halo! Selamat datang di halaman profil sekolah kami. Kenali kami lebih dekat melalui visi, misi, dan tenaga pendidik yang berdedikasi.",
+    "logo": "",
+    "profileBanner": "https://picsum.photos/1920/600?random=profile",
+    "hoursMondayThursday": "07:00 - 15:30",
+    "hoursFriday": "07:00 - 11:30",
+    "hoursSaturday": "08:00 - 12:00"
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Juara 1 Olimpiade Sains Nasional",
+      "date": "2023-10-15",
+      "category": "Prestasi",
+      "summary": "Siswa kami berhasil meraih medali emas dalam Olimpiade Sains Nasional tingkat SMA.",
+      "image": "https://picsum.photos/800/600?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Penerimaan Peserta Didik Baru (PPDB) 2024",
+      "date": "2023-11-01",
+      "category": "Pengumuman",
+      "summary": "Pendaftaran gelombang pertama telah dibuka. Segera daftarkan putra-putri Anda.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Kunjungan Edukatif ke Museum Nasional",
+      "date": "2023-10-20",
+      "category": "Kegiatan",
+      "summary": "Siswa kelas 10 melakukan studi lapangan untuk mempelajari sejarah nusantara.",
+      "image": "https://picsum.photos/800/600?random=3"
+    }
+  ],
+  "teachers": [
+    { "id": 1, "name": "Dr. Budi Santoso", "subject": "Matematika", "image": "https://picsum.photos/200/200?random=10" },
+    { "id": 2, "name": "Siti Aminah, M.Pd", "subject": "Bahasa Indonesia", "image": "https://picsum.photos/200/200?random=11" },
+    { "id": 3, "name": "James Wilson, B.Ed", "subject": "Bahasa Inggris", "image": "https://picsum.photos/200/200?random=12" },
+    { "id": 4, "name": "Ir. Ratna Dewi", "subject": "Fisika", "image": "https://picsum.photos/200/200?random=13" },
+    { "id": 5, "name": "Drs. Slamet Riyadi", "subject": "Biologi", "image": "https://picsum.photos/200/200?random=14" },
+    { "id": 6, "name": "Linda Kusuma, S.Sn", "subject": "Seni Budaya", "image": "https://picsum.photos/200/200?random=15" },
+    { "id": 7, "name": "Rudi Hartono, S.Kom", "subject": "TIK", "image": "https://picsum.photos/200/200?random=16" },
+    { "id": 8, "name": "Hj. Nurul Hidayah", "subject": "Pendidikan Agama", "image": "https://picsum.photos/200/200?random=17" }
+  ],
+  "events": [
+    { "id": 1, "date": "2023-12-05", "title": "Ujian Akhir Semester", "type": "academic" },
+    { "id": 2, "date": "2023-12-18", "title": "Pembagian Rapor", "type": "academic" },
+    { "id": 3, "date": "2023-12-25", "title": "Libur Hari Raya", "type": "holiday" },
+    { "id": 4, "date": "2024-01-10", "title": "Class Meeting", "type": "activity" }
+  ],
+  "facilities": [
+    { "id": 1, "title": "Perpustakaan Digital", "image": "https://picsum.photos/600/400?random=lib" },
+    { "id": 2, "title": "Laboratorium Sains", "image": "https://picsum.photos/600/400?random=lab" },
+    { "id": 3, "title": "Gelanggang Olahraga", "image": "https://picsum.photos/600/400?random=gym" }
+  ],
+  "downloads": [
+    { "id": 1, "title": "Jadwal Pelajaran Sem. Ganjil", "category": "Akademik", "url": "#" },
+    { "id": 2, "title": "Kalender Akademik 2023/2024", "category": "Akademik", "url": "#" },
+    { "id": 3, "title": "Panduan Tata Tertib Siswa", "category": "Kesiswaan", "url": "#" },
+    { "id": 4, "title": "Silabus Kurikulum Merdeka", "category": "Kurikulum", "url": "#" }
+  ],
+  "quickLinks": [
+    { "id": 1, "title": "Cek Kelulusan", "url": "#" },
+    { "id": 2, "title": "Perpustakaan Digital", "url": "#" },
+    { "id": 3, "title": "Computer Based Test (CBT)", "url": "#" },
+    { "id": 4, "title": "Rapor Online", "url": "#" },
+    { "id": 5, "title": "Sistem Informasi Alumni", "url": "#" }
+  ]
+}
