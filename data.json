@@ -1,0 +1,103 @@
+{
+  "schoolConfig": {
+    "name": "SDN Kedungsukun 01",
+    "address": "Jl. Kresna Kedungsukun Kec. Adiwerna Kab. Tegal",
+    "phone": "082323282898",
+    "email": "sdnkedungsukun01@gmail.com",
+    "headmasterName": "Mohamad Dibyo, S.Pd., M.Pd.",
+    "headmasterImage": "https://drive.google.com/uc?export=view&id=1rELnShfXIHML83ECqP26DSim0TGayDiW",
+    "welcomeMessage": "Selamat datang di website resmi SDN Kedungsukun 01. Di era digital ini, kami berkomitmen untuk tidak hanya mencetak siswa yang cerdas secara akademik, tetapi juga berkarakter mulia dan siap menghadapi tantangan global.",
+    "heroImage": "https://picsum.photos/1920/1080?random=school",
+    "vision": "Menjadi institusi pendidikan berstandar internasional yang unggul dalam prestasi, berkarakter, dan berwawasan lingkungan.",
+    "mission": "Menyelenggarakan pembelajaran yang inovatif dan kreatif.\nMenanamkan nilai-nilai keagamaan dan moral.\nMengembangkan bakat dan minat siswa secara optimal.\nMenjalin kerjasama dengan berbagai institusi dalam dan luar negeri.",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.608389328787!2d109.09581407499668!3d-6.937318793062681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb923a4a035b9%3A0xa3c192b170abee67!2sSD%20Negeri%2001%20Kedungsukun!5e0!3m2!1sid!2sid!4v1771210875651!5m2!1sid!2sid",
+    "facebookLink": "#",
+    "instagramLink": "#",
+    "youtubeLink": "#",
+    "elearningLink": "#",
+    "ppdbLink": "#",
+    "openingHours": "07:00 - 14:30",
+    "footerText": "© 2024 SDN Kedungsukun 01. All rights reserved.",
+    "runningText": "📢 PENGUMUMAN: Pendaftaran Sistem Penerimaan Murid Baru (SPMB) Tahun Ajaran 2026/2027 Telah Dibuka! • Selamat kepada Tim Basket Putra atas Juara 1 DBL • Pengambilan Rapor Semester Ganjil pada 18 Desember 2023",
+    "profileGreeting": "Halo! Selamat datang di halaman profil sekolah kami. Kenali kami lebih dekat melalui visi, misi, dan tenaga pendidik yang berdedikasi.",
+    "logo": "https://kemdiktisaintek.go.id/kemdiktisaintek-logo.svg",
+    "profileBanner": "https://picsum.photos/1920/600?random=profile",
+    "hoursMondayThursday": "07:00 - 14:30",
+    "hoursFriday": "07:00 - 11:15",
+    "hoursSaturday": "07:00 - 12:45",
+    "spmbDescription": "Pendaftaran Sistem Penerimaan Murid Baru (SPMB) Tahun Ajaran 2026/2027 dilakukan secara online. Silakan lengkapi formulir di bawah ini dengan data yang sebenar-benarnya.",
+    "spmbRequirements": "1. Akta Kelahiran (Scan/Foto)\n2. Kartu Keluarga (Scan/Foto)\n3. KTP Orang Tua (Scan/Foto)\n4. Pas Foto 3x4 Background Merah",
+    "spmbGoogleFormUrl": "https://docs.google.com/spreadsheets/d/1eAeVWmlXRYcF3c2DX2JFhhIcNXmFU07iV5hvnr8UNL4/edit?usp=sharing"
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Juara 1 Olimpiade Sains Nasional",
+      "date": "2023-10-15",
+      "category": "Prestasi",
+      "summary": "Siswa kami berhasil meraih medali emas dalam Olimpiade Sains Nasional tingkat SMA.",
+      "image": "https://picsum.photos/800/600?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Penerimaan Peserta Didik Baru (PPDB) 2024",
+      "date": "2023-11-01",
+      "category": "Pengumuman",
+      "summary": "Pendaftaran gelombang pertama telah dibuka. Segera daftarkan putra-putri Anda.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Kunjungan Edukatif ke Museum Nasional",
+      "date": "2023-10-20",
+      "category": "Kegiatan",
+      "summary": "Siswa kelas 10 melakukan studi lapangan untuk mempelajari sejarah nusantara.",
+      "image": "https://picsum.photos/800/600?random=3"
+    }
+  ],
+  "teachers": [
+    { "id": 1, "name": "Mohamad Dibyo, S.Pd., M.Pd.", "subject": "Kepala Sekolah", "image": "https://picsum.photos/200/200?random=101" },
+    { "id": 2, "name": "Rakhmatika Atmijaya, M.Pd.", "subject": "Guru Kelas I/A", "image": "https://picsum.photos/200/200?random=102" },
+    { "id": 3, "name": "Novi Awaliyah, S.Pd.", "subject": "Guru Kelas I/B", "image": "https://picsum.photos/200/200?random=103" },
+    { "id": 4, "name": "Ismawati, S.Pd.SD.", "subject": "Guru Kelas II/A", "image": "https://picsum.photos/200/200?random=104" },
+    { "id": 5, "name": "Zeca Candra Dewi, S.Pd.", "subject": "Guru Kelas II/B", "image": "https://picsum.photos/200/200?random=105" },
+    { "id": 6, "name": "Fera Solikhatun, S.Pd.", "subject": "Guru Kelas III/A", "image": "https://picsum.photos/200/200?random=106" },
+    { "id": 7, "name": "Dwi Timor Yunianti, S.Pd.", "subject": "Guru Kelas III/B", "image": "https://picsum.photos/200/200?random=107" },
+    { "id": 8, "name": "Amiroh, S.Pd.SD.", "subject": "Guru Kelas IV/A", "image": "https://picsum.photos/200/200?random=108" },
+    { "id": 9, "name": "Laily Khoirunnisa, S.Pd.", "subject": "Guru Kelas IV/B", "image": "https://picsum.photos/200/200?random=109" },
+    { "id": 10, "name": "Yusril Yahya Muhaimin, S.Pd.", "subject": "Guru Kelas V/A", "image": "https://picsum.photos/200/200?random=110" },
+    { "id": 11, "name": "Indra Ghozali, S.Pd.", "subject": "Guru Kelas V/B", "image": "https://picsum.photos/200/200?random=111" },
+    { "id": 12, "name": "Akhmad Zaeni, S.Pd.SD.", "subject": "Guru Kelas VI/A", "image": "https://picsum.photos/200/200?random=112" },
+    { "id": 13, "name": "Moh Uwais Koroni, S.Pd.", "subject": "Guru Kelas VI/B", "image": "https://picsum.photos/200/200?random=113" },
+    { "id": 14, "name": "Siti Nur Ajizah, S.Pd.I.", "subject": "Guru PAI", "image": "https://picsum.photos/200/200?random=114" },
+    { "id": 15, "name": "Mukhamad Santoso, S.Ag.", "subject": "Guru PAI", "image": "https://picsum.photos/200/200?random=115" },
+    { "id": 16, "name": "Mohammad Novan Ade Saputro, S.Pd.", "subject": "Guru Penjasorkes", "image": "https://picsum.photos/200/200?random=116" },
+    { "id": 17, "name": "Dea Asri Suherman", "subject": "Tenaga Administrasi", "image": "https://picsum.photos/200/200?random=117" },
+    { "id": 18, "name": "Darmawan", "subject": "Pengelola Umum Operasional", "image": "https://picsum.photos/200/200?random=118" },
+    { "id": 19, "name": "M.Tosim", "subject": "Penjaga Sekolah", "image": "https://picsum.photos/200/200?random=119" }
+  ],
+  "events": [
+    { "id": 1, "date": "2023-12-05", "title": "Ujian Akhir Semester", "type": "academic" },
+    { "id": 2, "date": "2023-12-18", "title": "Pembagian Rapor", "type": "academic" },
+    { "id": 3, "date": "2023-12-25", "title": "Libur Hari Raya", "type": "holiday" },
+    { "id": 4, "date": "2024-01-10", "title": "Class Meeting", "type": "activity" }
+  ],
+  "facilities": [
+    { "id": 1, "title": "Perpustakaan Digital", "image": "https://picsum.photos/600/400?random=lib" },
+    { "id": 2, "title": "Laboratorium Sains", "image": "https://picsum.photos/600/400?random=lab" },
+    { "id": 3, "title": "Gelanggang Olahraga", "image": "https://picsum.photos/600/400?random=gym" }
+  ],
+  "downloads": [
+    { "id": 1, "title": "Jadwal Pelajaran Sem. Ganjil", "category": "Akademik", "url": "#" },
+    { "id": 2, "title": "Kalender Akademik 2023/2024", "category": "Akademik", "url": "#" },
+    { "id": 3, "title": "Panduan Tata Tertib Siswa", "category": "Kesiswaan", "url": "#" },
+    { "id": 4, "title": "Silabus Kurikulum Merdeka", "category": "Kurikulum", "url": "#" }
+  ],
+  "quickLinks": [
+    { "id": 1, "title": "Cek Kelulusan", "url": "#" },
+    { "id": 2, "title": "Perpustakaan Digital", "url": "#" },
+    { "id": 3, "title": "Computer Based Test (CBT)", "url": "#" },
+    { "id": 4, "title": "Rapor Online", "url": "#" },
+    { "id": 5, "title": "Sistem Informasi Alumni", "url": "#" }
+  ]
+}
